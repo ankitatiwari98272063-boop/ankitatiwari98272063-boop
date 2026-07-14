@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World, I'm Ankita Tiwari 👋
+# Hello World, I'm Ankita Tiwari 
 
 <!-- Replace the URL below with any cool tech GIF of your choice if you prefer -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YWh3eGFtN202OHk5aHNrMzRocmY3ZnVvOHo4aW93OHkydnV0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Tech Banner" />
