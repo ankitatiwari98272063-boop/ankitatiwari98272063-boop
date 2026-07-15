@@ -3,7 +3,7 @@
   
   <h1>Hi there, I'm Ankita Tiwari </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A97BF2&center=true&vCenter=true&width=700&lines=Game+Development+%7C+Unity+Engine;Aspiring+Data+Analyst+%7C+Python+%26+SQL;Building+Real-World+Dashboards+%26+Apps" alt="Typing Effect Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A97BF2&center=true&vCenter=true&width=700&lines=Game+Development+%7C+Unity+Engine;Aspiring+Data+Analyst+%7C+Python+%26+mySQL;Building+Real-World+Dashboards+%26+Apps" alt="Typing Effect Banner" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ankita9560">
